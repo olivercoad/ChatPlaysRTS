@@ -12,6 +12,8 @@ The official Twitch website can be found at [https://twitch.tv](https://twitch.t
 
 This program requires an update python installation to use. Please download and install from. https://www.python.org/downloads/windows/
 
+When installing, make sure you enable the `tkinter` option.
+
 This program is primarily targeted for Windows 10, however it should also work on GNU/Linux.
 
 ## Running CPR
